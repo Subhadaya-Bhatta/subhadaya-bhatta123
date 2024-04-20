@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @subha-bhatta123
-- 👀 I’m interested in learning and trying new things
+- 👋 Hi, I’m Subhadaya Bhatta. 
+- 👀 I’m interested in learning and trying new things. 
 - 🌱 I’m currently learning. 
 - 💞️ I’m looking to learn coding.
 
